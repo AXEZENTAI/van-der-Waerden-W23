@@ -12,6 +12,7 @@ The result is established by:
 Together, these imply: **W(2,3) = 9.**
 
 
+
 ## Scope and intent
 
 This repository is **verification-oriented**.  
