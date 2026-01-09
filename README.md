@@ -6,13 +6,11 @@ This repository contains a complete, finite, and exhaustive certification of the
 
 The result is established by:
 
-- An explicit 2-coloring of \([8]\) with no monochromatic 3-term arithmetic progression (an avoider), and  
-- An exhaustive enumeration of all \(2^9\) two-colorings of \([9]\), showing that no avoiders exist.
+- An explicit 2-coloring of **[8]** with no monochromatic 3-term arithmetic progression (an avoider), and  
+- An exhaustive enumeration of all **2^9** two-colorings of **[9]**, showing that no avoiders exist.
 
-Together, these imply:
-\[
-W(2,3) = 9.
-\]
+Together, these imply: **W(2,3) = 9.**
+
 
 ## Scope and intent
 
